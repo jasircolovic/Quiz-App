@@ -1,0 +1,92 @@
+[
+  {
+    "QuestionText": "What is the primary purpose of a CDN (Content Delivery Network) in cloud computing?",
+    "options": ["Database storage", "Load balancing", "Content caching", "Authentication"],
+    "correctAnswer": "Content caching",
+    "difficulty": "hard"
+  },
+  {
+    "QuestionText": "Which data structure follows the Last In, First Out (LIFO) principle?",
+    "options": ["Queue", "Stack", "Linked List", "Hash Table"],
+    "correctAnswer": "Stack",
+    "difficulty": "hard"
+  },
+  {
+    "QuestionText": "In algorithm analysis, what does 'O(n log n)' represent?",
+    "options": ["Linear time complexity", "Quadratic time complexity", "Logarithmic time complexity", "Exponential time complexity"],
+    "correctAnswer": "Logarithmic time complexity",
+    "difficulty": "easy"
+  },
+  {
+    "QuestionText": "What is the purpose of the 'git' version control system?",
+    "options": ["Database management", "Project collaboration", "Code versioning", "Web hosting"],
+    "correctAnswer": "Code versioning",
+    "difficulty": "easy"
+  },
+  {
+    "QuestionText": "What is the role of a 'Load Balancer' in a cloud infrastructure?",
+    "options": ["Ensuring data integrity", "Optimizing code execution", "Distributing network traffic", "Encrypting communication"],
+    "correctAnswer": "Distributing network traffic",
+    "difficulty": "hard"
+  },
+  {
+    "QuestionText": "Which of the following is a commonly used algorithm for sorting?",
+    "options": ["Breadth-First Search", "Depth-First Search", "QuickSort", "Dijkstra's Algorithm"],
+    "correctAnswer": "QuickSort",
+    "difficulty": "easy"
+  },
+  {
+    "QuestionText": "What does the term 'SQL' stand for in the context of databases?",
+    "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Language", "System Query Language"],
+    "correctAnswer": "Structured Query Language",
+    "difficulty": "hard"
+  },
+  {
+    "QuestionText": "In cloud computing, what does the acronym 'IaaS' represent?",
+    "options": ["Infrastructure as a Service", "Internet as a Service", "Integration as a Service", "Information as a Service"],
+    "correctAnswer": "Infrastructure as a Service",
+    "difficulty": "easy"
+  },
+  {
+    "QuestionText": "Which data structure is used for implementing LRU (Least Recently Used) caching?",
+    "options": ["Array", "Linked List", "Queue", "Stack"],
+    "correctAnswer": "Linked List",
+    "difficulty": "hard"
+  },
+  {
+    "QuestionText": "What is the primary function of a 'Firewall' in network security?",
+    "options": ["Data encryption", "Access control", "Code compilation", "Load balancing"],
+    "correctAnswer": "Access control",
+    "difficulty": "easy"
+  },
+  {
+    "QuestionText": "True or False: A linked list can be traversed only in the forward direction.",
+    "options":["True","False"],
+    "correctAnswer": "True",
+    "difficulty": "easy"
+  },
+  {
+    "QuestionText": "True or False: Bubble sort is more efficient than quicksort.",
+    "options":["True","False"],
+    "correctAnswer": "False",
+    "difficulty": "hard"
+  },
+  {
+    "QuestionText": "True or False: HTML stands for Hyper Text Markup Language.",
+    "options":["True","False"],
+    "correctAnswer": "True",
+    "difficulty": "easy"
+  },
+  {
+    "QuestionText": "Fill in the blank: The ____________ loop is used for iterating over a sequence of elements in reverse order.",
+    "options": ["for", "while", "do-while", "foreach"],
+    "correctAnswer": "for",
+    "difficulty": "easy"
+  },
+  {
+    "QuestionText": "Fill in the blank: The time complexity of binary search is ____________.",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n^2)"],
+    "correctAnswer": "O(log n)",
+    "difficulty": "hard"
+  }
+]
